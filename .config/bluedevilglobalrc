@@ -1,0 +1,5 @@
+[Adapters]
+DC:1B:A1:D6:49:ED_powered=true
+
+[Devices]
+connectedDevices=74:65:0C:AE:D2:33

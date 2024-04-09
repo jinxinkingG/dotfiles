@@ -1,0 +1,8 @@
+[FileDialogSize]
+2160x1440 screen: Height=757
+2160x1440 screen: Width=1100
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/ideaIU-2023.3.2.tar.gz,file:$HOME/Downloads/染助剂当月耗用盘点汇总表-20240221105507.xls,file:$HOME/Downloads/code_1.86.2-1707854558_amd64.deb,file:$HOME/Downloads/合同汇总信息表20240220152056.xls,file:$HOME/Downloads/GDRE_tools-v0.6.2-linux.zip,file:$HOME/Downloads/合同汇总信息表20240220102156.xls,file:$HOME/Downloads/discord-0.0.43.deb,file:$HOME/Downloads/tsetup.4.15.0.tar.xz,file:$HOME/Downloads/合同信息汇总表.xlsx,file:$HOME/Downloads/估价提交数据 (1).xlsx,file:$HOME/Downloads/估价提交数据.xlsx,file:$HOME/Downloads/dbeaver-ce_23.3.5_amd64.deb,file:$HOME/Downloads/dbeaver-ce_23.3.4_amd64.deb,file:$HOME/Downloads/Config.yaml,file:$HOME/Downloads/染助剂当月耗用盘点汇总表-20240201134142.xls,file:$HOME/Downloads/染助剂当月耗用盘点汇总表-20240201085525.xls
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/,file:$HOME/Documents/,file:$HOME/
+detailViewIconSize=16

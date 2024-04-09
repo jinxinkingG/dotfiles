@@ -1,0 +1,53 @@
+" .ideavimrc is a configuration file for IdeaVim plugin. It uses
+"   the same commands as the original .vimrc configuration.
+" You can find a list of commands here: https://jb.gg/h38q75
+" Find more examples here: https://jb.gg/share-ideavimrc
+
+
+"" -- Suggested options --
+" Show a few lines of context around the cursor. Note that this makes the
+" text scroll if you mouse-click near the start or end of the window.
+set scrolloff=5
+
+" Do incremental searching.
+set incsearch
+
+" Don't use Ex mode, use Q for formatting.
+map Q gq
+
+" --- Enable IdeaVim plugins https://jb.gg/ideavim-plugins
+
+" Highlight copied text
+Plug 'machakann/vim-highlightedyank'
+" Commentary plugin
+Plug 'tpope/vim-commentary'
+
+imap jk <esc>
+imap jj <esc>
+
+vmap q <esc>
+
+nmap gb <C-o>
+nmap gf <C-i>
+
+set clipboard=unnamedplus
+
+set relativenumber
+set nu
+
+" Press `f` to activate AceJump
+map <A-f> <Action>(AceAction)
+" Press `F` to activate Target Mode
+map <A-e> <Action>(AceTargetAction)
+" Press `g` to activate Line Mode
+map <A-l> <Action>(AceLineAction)
+
+"" -- Map IDE actions to IdeaVim -- https://jb.gg/abva4t
+"" Map \r to the Reformat Code action
+"map \r <Action>(ReformatCode)
+
+"" Map <leader>d to start debug
+"map <leader>d <Action>(Debug)
+
+"" Map \b to toggle the breakpoint on the current line
+"map \b <Action>(ToggleLineBreakpoint)

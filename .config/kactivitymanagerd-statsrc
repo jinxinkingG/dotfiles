@@ -1,0 +1,11 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-24-49e4115e-f47c-42ff-a980-e66b41f72364]
+ordering=applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:systemsettings.desktop,preferred://browser,applications:discord.desktop,applications:EasyConnect.desktop,applications:github-desktop.desktop,applications:GodotEngine.desktop,applications:idea-IU.desktop,applications:obsidian.desktop,applications:dbeaver-ce.desktop,applications:kitty.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-24-global]
+ordering=applications:org.kde.discover.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:systemsettings.desktop,preferred://browser,applications:discord.desktop,applications:EasyConnect.desktop,applications:github-desktop.desktop,applications:GodotEngine.desktop,applications:idea-IU.desktop,applications:obsidian.desktop,applications:dbeaver-ce.desktop,applications:kitty.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-49e4115e-f47c-42ff-a980-e66b41f72364]
+ordering=applications:discord.desktop,applications:org.telegram.desktop._becef6a8e6a59604071b57d758d15dce.desktop,applications:github-desktop.desktop,applications:idea-IU.desktop,applications:GodotEngine.desktop,applications:org.kde.konsole.desktop,applications:org.kde.kate.desktop,applications:kitty.desktop,applications:EasyConnect.desktop,applications:obsidian.desktop,applications:Postman.desktop,applications:code.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:discord.desktop,applications:org.telegram.desktop._becef6a8e6a59604071b57d758d15dce.desktop,applications:github-desktop.desktop,applications:idea-IU.desktop,applications:GodotEngine.desktop,applications:org.kde.konsole.desktop,applications:org.kde.kate.desktop,applications:kitty.desktop,applications:EasyConnect.desktop,applications:obsidian.desktop,applications:Postman.desktop,applications:code.desktop

@@ -1,0 +1,4 @@
+set clipboard=unnamedplus
+set nu
+imap jk <esc>
+imap jj <esc>

@@ -1,0 +1,23 @@
+[KFileDialog Settings]
+Recent Files[$e]=IMG_0643.jpg,file:$HOME/Pictures/private/IMG_0643.jpg
+Recent URLs[$e]=file:$HOME/Pictures/private/,file:$HOME/Pictures/
+detailViewIconSize=16
+
+[MainWindow]
+1728x1152 screen: Height=840
+1728x1152 screen: Width=1224
+1728x1152 screen: XPosition=374
+1728x1152 screen: YPosition=186
+2 screens: Height=840
+2 screens: Width=1375
+2 screens: XPosition=70
+2 screens: YPosition=479
+2160x1440 screen: Height=893
+2160x1440 screen: Width=1224
+2160x1440 screen: XPosition=542
+2160x1440 screen: YPosition=312
+HDMI-1 eDP-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABMgAAAN9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
